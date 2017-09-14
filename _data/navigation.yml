@@ -1,0 +1,9 @@
+main:
+  - title: "home"
+    url: /
+
+menu:
+  - title: "Scholars"
+    children:
+      - title: "Chorianopoulos K."
+        url: /scholars/choko/
