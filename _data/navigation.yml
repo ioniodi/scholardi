@@ -7,3 +7,31 @@ menu:
     children:
       - title: "Chorianopoulos K."
         url: /scholars/choko/
+      - title: "Tsohou A."
+        url: /scholars/atsohou/
+      - title: "Avlonitis M."
+        url: /scholars/avlon/
+      - title: "Anagnostopoulos C."
+        url: /scholars/christos/
+      - title: "Tsoumakos D."
+        url: /scholars/dtsouma/
+      - title: "Magos M."
+        url: /scholars/emagos/
+      - title: "Mylonas F."
+        url: /scholars/fmylonas/
+      - title: "Kermanidis K."
+        url: /scholars/kerman/
+      - title: "Stefanidakis M."
+        url: /scholars/mistral/
+      - title: "Oikonomou K."
+        url: /scholars/okon/
+      - title: "Pateli A."
+        url: /scholars/pateli/
+      - title: "Kourouthanassis P."
+        url: /scholars/pkour/
+      - title: "Sioutas S."
+        url: /scholars/sioutas/
+      - title: "Chrissikopoulos V."
+        url: /scholars/vchris/
+      - title: "Vlamos P."
+        url: /scholars/vlamos/

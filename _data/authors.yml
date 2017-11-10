@@ -5,3 +5,108 @@ choko:
  github: "epidrome"
  bio: "Software Technologies"
  avatar: "/assets/images/choko.jpg"
+
+vlamos:
+ name: "Panagiotis Vlamos"
+ email: "vlamos@ionio.gr"
+ uri: "http://www.ionio.gr/~vlamos"
+ bio: "Mathematics in Application Modelling"
+ avatar: "/assets/images/vlamos.jpg"
+
+pkour:
+ name: "Panagiotis Kourouthanassis"
+ email: "pkour@ionio.gr"
+ uri: "http://www.ionio.gr/~pkour"
+ bio: "Information Systems and E-Goverment"
+ avatar: "/assets/images/kourou.jpg"
+
+emagos:
+ name: "Emmanouil Magos"
+ email: "emagos@ionio.gr"
+ uri: "http://www.ionio.gr/~emagos"
+ bio: "Cryptography and Information Systems Security"
+ avatar: "/assets/images/emagos.jpg"
+
+andronikos:
+ name: "Theodore Andronikos"
+ email: "andronikos@ionio.gr"
+ uri: "http://www.ionio.gr/~andronikos"
+ bio: "Internet Programming"
+ avatar: "/assets/images/andro.jpg"
+
+okon:
+ name: "Konstantinos Oikonomou"
+ email: "okon@ionio.gr"
+ uri: "http://www.ionio.gr/~okon"
+ bio: "Computer Networks"
+ avatar: "assets/images/okon.jpg"
+
+avlon:
+ name: "Markos Avlonitis"
+ email: "avlon@ionio.gr"
+ uri: "http://www.ionio.gr/~avlon"
+ bio: "Applied Stohastic Models"
+ avatar: "assets/images/avlon.jpg"
+
+mistral:
+ name: "Michalis Stefanidakis"
+ email: "mistral@ionio.gr"
+ uri: "http://www.ionio.gr/~mistral"
+ bio: "Computer Systems Architecture"
+ avatar: "assets/images/mistral.jpg"
+
+christos:
+ name: "Christos Anagnostopoulos"
+ email: "christos@ionio.gr"
+ uri: "http://www.ionio.gr/~christos"
+ bio: "Network-Centric Information Systems"
+ avatar: "/assets/images/anagnostopoulos.jpg"
+
+pateli:
+ name: "Adamantia Pateli"
+ email: "pateli@ionio.gr"
+ uri: "http://www.ionio.gr/~pateli"
+ bio: "Management of Information Systems and Innovation"
+ avatar: "/assets/images/pateli.jpg"
+
+dtsouma:
+ name: "Dimitrios Tsoumakos"
+ email: "dtsouma@ionio.gr"
+ uri: "http://www.cslab.ece.ntua.gr/~dtsouma/"
+ bio: "Data Management on the Web"
+ avatar: "/assets/images/dtsouma.jpg"
+
+fmylonas:
+ name: "Phivos Mylonas"
+ email: "fmylonas@ionio.gr"
+ uri: "http://www.ionio.gr/~fmylonas"
+ bio: "Representation and Knowledge Management"
+ avatar: "/assets/images/fmylonas.jpg"
+  
+atsohou:
+ name: "Aggeliki Tsohou"
+ email: "atsohou@ionio.gr"
+ uri:
+ bio: "Internet Security and Privacy"
+ avatar: "/assets/images/atsohou.jpg"
+
+kerman:
+ name: "Katia Lida Kermanidis"
+ email: "kerman@ionio.gr"
+ uri: "http://www.ionio.gr/~kerman"
+ bio: "Artificial Intelligence in Language Technology"
+ avatar: "/assets/images/kerman.jpg"
+
+sioutas:
+ name:  "Spyros Sioutas"
+ email: "sioutas@ionio.gr"
+ uri: "http://www.ionio.gr/~sioutas"
+ bio: "Data Structures & Databases"
+ avatar: "/assets/images/sioutas.jpg"
+
+vchris:
+ name: "Vassilis Chrissikopoulos"
+ email: "vchris@ionio.gr"
+ uri: ""
+ bio:  "IT – Networks – Information Security"
+ avatar: "/assets/images/vchris.jpg"
