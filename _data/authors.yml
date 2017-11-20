@@ -14,7 +14,7 @@ vlamos:
  uri: "http://www.ionio.gr/~vlamos"
  bio: "Mathematics in Application Modelling"
  avatar: "/assets/images/vlamos.jpg"
- researchgate: https://www.researchgate.net/profile/Panayiotis_Vlamos
+ researchgate: profile/Panayiotis_Vlamos
 
 pkour:
  name: "Panagiotis Kourouthanassis"
@@ -30,7 +30,7 @@ emagos:
  uri: "http://www.ionio.gr/~emagos"
  bio: "Cryptography and Information Systems Security"
  avatar: "/assets/images/emagos.jpg"
- researchgate: https://www.researchgate.net/profile/Emmanouil_Magkos
+ researchgate: profile/Emmanouil_Magkos
  google_scholar:: citations?user=qy_LFbsAAAAJ&hl=en
 
 andronikos:
@@ -47,7 +47,7 @@ okon:
  uri: "http://www.ionio.gr/~okon"
  bio: "Computer Networks"
  avatar: "assets/images/okon.jpg"
- researchgate: https://www.researchgate.net/profile/Konstantinos_Oikonomou2
+ researchgate: profile/Konstantinos_Oikonomou2
 
 avlon:
  name: "Markos Avlonitis"
@@ -55,7 +55,7 @@ avlon:
  uri: "http://www.ionio.gr/~avlon"
  bio: "Applied Stohastic Models"
  avatar: "assets/images/avlon.jpg"
- researchgate: https://www.researchgate.net/profile/Markos_Avlonitis
+ researchgate: Markos_Avlonitis
 
 mistral:
  name: "Michalis Stefanidakis"
@@ -70,7 +70,7 @@ christos:
  uri: "http://www.ionio.gr/~christos"
  bio: "Network-Centric Information Systems"
  avatar: "/assets/images/anagnostopoulos.jpg"
- researchgate: https://www.researchgate.net/profile/Christos_Anagnostopoulos3
+ researchgate: Christos_Anagnostopoulos3
  google_scholar: citations?user=I4cZXWYAAAAJ&hl=da
 
 pateli:
@@ -79,7 +79,7 @@ pateli:
  uri: "http://www.ionio.gr/~pateli"
  bio: "Management of Information Systems and Innovation"
  avatar: "/assets/images/pateli.jpg"
- researchgate: https://www.researchgate.net/profile/Adamantia_Pateli
+ researchgate: Adamantia_Pateli
  google_scholar: citations?user=z526I7UAAAAJ&hl=en
 
 dtsouma:
@@ -97,7 +97,7 @@ fmylonas:
  uri: "http://www.ionio.gr/~fmylonas"
  bio: "Representation and Knowledge Management"
  avatar: "/assets/images/fmylonas.jpg"
- researchgate: https://www.researchgate.net/profile/Phivos_Mylonas
+ researchgate: Phivos_Mylonas
  google_scholar: citations?user=6nFTsQIAAAAJ
 
 atsohou:
@@ -106,7 +106,7 @@ atsohou:
  uri:
  bio: "Internet Security and Privacy"
  avatar: "/assets/images/atsohou.jpg"
- researchgate: https://www.researchgate.net/profile/Aggeliki_Tsohou
+ researchgate: Aggeliki_Tsohou
  google_scholar: citations?user=etn5eNkAAAAJ&hl=en
 
 kerman:
@@ -115,7 +115,7 @@ kerman:
  uri: "http://www.ionio.gr/~kerman"
  bio: "Artificial Intelligence in Language Technology"
  avatar: "/assets/images/kerman.jpg"
- researchgate: https://www.researchgate.net/profile/Katia_Kermanidis
+ researchgate: Katia_Kermanidis
  google_scholar: citations?user=r_Dt51gAAAAJ
 
 sioutas:
@@ -124,7 +124,7 @@ sioutas:
  uri: "http://www.ionio.gr/~sioutas"
  bio: "Data Structures & Databases"
  avatar: "/assets/images/sioutas.jpg"
- researchgate: https://www.researchgate.net/profile/Spyros_Sioutas
+ researchgate: Spyros_Sioutas
  google_scholar: citations?user=F9-WPBoAAAAJ&hl=en
 
 vchris:
@@ -133,4 +133,4 @@ vchris:
  uri: ""
  bio:  "IT – Networks – Information Security"
  avatar: "/assets/images/vchris.jpg"
- researchgate: https://www.researchgate.net/profile/Vassileios_Chrissikopoulos
+ researchgate: Vassileios_Chrissikopoulos
