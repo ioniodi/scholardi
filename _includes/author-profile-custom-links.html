@@ -1,0 +1,16 @@
+
+{% if author.google_scholar %}
+  <li>
+    <a href="https://scholar.google.gr/{{ author.google_scholar }}" itemprop="sameAs">
+      <i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
+
+{% if author.researchgate %}
+    <li>
+      <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
+        <i class="fa fa-fw fa-university" aria-hidden="true"></i> ResearchGate
+      </a>
+    </li>
+{% endif %}
