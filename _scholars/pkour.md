@@ -17,7 +17,7 @@ tags:
 
 {% bibliography --file pkour --max 3 %}
 
-<a href="http://localhost:4000/scholardi/scholars0/pkour/" class="btn btn--primary">Link Text</a>
+<a href="{{ site.url }}{{ site.baseurl }}/scholars0/{{ page.author }}/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "BSc in Informatics, Athens University of Economics and Business"

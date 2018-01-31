@@ -16,7 +16,7 @@ tags:
 
 {% bibliography --file dtsouma --max 3 %}
 
-<a href="http://localhost:4000/scholardi/scholars0/dtsouma/" class="btn btn--primary">Link Text</a>
+<a href="{{ site.url }}{{ site.baseurl }}/scholars0/{{ page.author }}/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title of Thesis: ‘Electronic Study Guide of the ECE Department’. Advisor: Prof. Timos Sellis"

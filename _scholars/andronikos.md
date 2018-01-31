@@ -27,11 +27,6 @@ tags:
   <label for="post-2" class="read-more-trigger"></label>
 </div>
 
-
-
-
-
-
 ### education:
   - "Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens"
   - "Ph.D. in “Automatic Parallelization of Sequential Algorithms”, School of Electrical and Computer Engineering, National technical University of Athens"

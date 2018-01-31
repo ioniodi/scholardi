@@ -17,7 +17,7 @@ tags:
 
 {% bibliography --file kerman --max 3 %}
 
-<a href="http://localhost:4000/scholardi/scholars0/kerman/" class="btn btn--primary">Link Text</a>
+<a href="{{ site.url }}{{ site.baseurl }}/scholars0/{{ page.author }}/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma from the Electrical and Computer Engineering Department, University of Patras"

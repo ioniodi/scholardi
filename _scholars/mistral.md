@@ -16,7 +16,7 @@ tags:
 
 {% bibliography --file mistral --max 3 %}
 
-<a href="http://localhost:4000/scholardi/scholars0/mistral/" class="btn btn--primary">Link Text</a>
+<a href="{{ site.url }}{{ site.baseurl }}/scholars0/{{ page.author }}/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma of Computer Engineering and Informatics, University of Patras"

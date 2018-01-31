@@ -17,7 +17,7 @@ tags:
 
 {% bibliography --file pateli --max 3 %}
 
-<a href="http://localhost:4000/scholardi/scholars0/pateli/" class="btn btn--primary">Link Text</a>
+<a href="{{ site.url }}{{ site.baseurl }}/scholars0/{{ page.author }}/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Informatics, Athens University of Economics and Business"

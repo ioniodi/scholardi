@@ -17,7 +17,7 @@ tags:
 
 {% bibliography --file avlon --max 3 %}
 
-<a href="http://localhost:4000/scholardi/scholars0/avlon/" class="btn btn--primary">Link Text</a>
+<a href="{{ site.url }}{{ site.baseurl }}/scholars0/{{ page.author }}/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)"
