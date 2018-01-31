@@ -14,11 +14,9 @@ tags:
  - "Pervasive Computing Systems"
 ---
 
+{% bibliography --file mistral --max 3 %}
 
-## Publications
-
-{% bibliography --file mistral %}
-
+<a href="http://localhost:4000/scholardi/scholars0/mistral/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma of Computer Engineering and Informatics, University of Patras"

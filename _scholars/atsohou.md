@@ -18,11 +18,9 @@ tags:
  - "e-Services, e-Government and Information Systems"
 ---
 
+{% bibliography --file atsohou --max 3 %}
 
-
-## Publications
-
-{% bibliography --file atsohou %}
+<a href="http://localhost:4000/scholardi/scholars0/atsohou/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece"

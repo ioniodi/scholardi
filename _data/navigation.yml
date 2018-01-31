@@ -1,6 +1,10 @@
 main:
-  - title: "home"
-    url: /
+  - title: "Scholars"
+    url: /scholars
+  - title: "Laboratories"
+    url: /laboratories
+  - title: "Publications"
+    url: /scholars0
 
 menu:
   - title: "Scholars"
@@ -14,7 +18,7 @@ menu:
       - title: "Anagnostopoulos C."
         url: /scholars/christos/
       - title: "Tsoumakos D."
-        url: /scholars/dtsouma/
+        url: /scholars/dtsouma
       - title: "Magos M."
         url: /scholars/emagos/
       - title: "Mylonas F."
@@ -35,3 +39,5 @@ menu:
         url: /scholars/vchris/
       - title: "Vlamos P."
         url: /scholars/vlamos/
+      - title: "Andronikos T."
+        url: /scholars/andronikos/

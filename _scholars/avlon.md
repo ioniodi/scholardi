@@ -15,11 +15,9 @@ tags:
  - "Modeling and simulation of large scale networks"
 ---
 
+{% bibliography --file avlon --max 3 %}
 
-
-## Publications
-
-{% bibliography --file avlon %}
+<a href="http://localhost:4000/scholardi/scholars0/avlon/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)"

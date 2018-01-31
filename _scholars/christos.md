@@ -14,9 +14,9 @@ tags:
  - "Network-centric Information Systems"
 ---
 
-## Publications
+{% bibliography --file christos --max 3 %}
 
-{% bibliography --file christos %}
+<a href="http://localhost:4000/scholardi/scholars0/christos/" class="btn btn--primary">Link Text</a>
 
 ### education:  
   - "B.Sc., Informatics and Telecommunications, National and Kapodistrian University of Athens, 2001, Concentrations: Computational Systems and Applications"

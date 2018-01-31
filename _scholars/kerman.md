@@ -15,12 +15,9 @@ tags:
  - "Humanistic Informatics"
 ---
 
+{% bibliography --file kerman --max 3 %}
 
-
-## Publications
-
-{% bibliography --file kerman %}
-
+<a href="http://localhost:4000/scholardi/scholars0/kerman/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma from the Electrical and Computer Engineering Department, University of Patras"

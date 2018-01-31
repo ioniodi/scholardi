@@ -14,12 +14,9 @@ tags:
   - "Mathematical modeling in Education with the use of new technologies"
 ---
 
+{% bibliography --file vlamos --max 3 %}
 
-## Publications
-
-{% bibliography --file vlamos %}
-
-
+<a href="http://localhost:4000/scholardi/scholars0/vlamos/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Mathematics, University of Athens"

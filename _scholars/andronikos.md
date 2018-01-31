@@ -1,5 +1,5 @@
 ---
-author: andronikos
+author: "andronikos"
 title: "Theodore Andronikos"
 excerpt: "Internet Programming"
 rank: 3
@@ -15,11 +15,22 @@ tags:
  - "Temporal logics for automated synthesis and verification of reactive systems"
 ---
 
+<div>
+  <input type="checkbox" class="read-more-state" id="post-2"/>
+  <ul class="read-more-wrap">
+    {% bibliography --file andronikos --max 3 %}
+
+    <li class="read-more-target">
+      {% bibliography --file andronikos%}
+    </li>
+  </ul>
+  <label for="post-2" class="read-more-trigger"></label>
+</div>
 
 
-## Publications
 
-{% bibliography --file andronikos %}
+
+
 
 ### education:
   - "Diploma in Computer Engineering, School of Electrical and Computer Engineering, National technical University of Athens"

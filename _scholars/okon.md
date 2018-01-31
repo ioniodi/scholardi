@@ -14,12 +14,10 @@ tags:
   - "Medium Access Control"
 ---
 
+{% bibliography --file okon --max 3 %}
 
+<a href="http://localhost:4000/scholardi/scholars0/okon/" class="btn btn--primary">Link Text</a>
 
-
-## Publications
-
-{% bibliography --file okon %}
 
 ### education:
   - "Diploma in Computer Engineering and Informatics, University of Patras, Greece"

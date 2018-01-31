@@ -14,10 +14,9 @@ tags:
  - "Internet Databases and DataWarehouses"
 ---
 
-## Publications
+{% bibliography --file dtsouma --max 3 %}
 
-{% bibliography --file dtsouma %}
-
+<a href="http://localhost:4000/scholardi/scholars0/dtsouma/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, National Technical University of Athens, Greece. Title of Thesis: ‘Electronic Study Guide of the ECE Department’. Advisor: Prof. Timos Sellis"

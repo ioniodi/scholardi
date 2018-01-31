@@ -15,12 +15,9 @@ tags:
  - "Strategic Management of ICT"
 ---
 
+{% bibliography --file pateli --max 3 %}
 
-
-## Publications
-
-{% bibliography --file pateli %}
-
+<a href="http://localhost:4000/scholardi/scholars0/pateli/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Informatics, Athens University of Economics and Business"

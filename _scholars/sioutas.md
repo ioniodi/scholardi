@@ -19,11 +19,10 @@ tags:
  - "Spatial Data Structures and Geographical Information Systems"
 ---
 
+{% bibliography --file sioutas --max 3 %}
 
+<a href="http://localhost:4000/scholardi/scholars0/sioutas/" class="btn btn--primary">Link Text</a>
 
-## Publications
-
-{% bibliography --file sioutas %}
 
 ### education:
   - "Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city of Patras: Network Connection with Database Servers located in the most popular Hotels and Transport Stations”."

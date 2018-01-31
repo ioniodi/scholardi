@@ -19,10 +19,9 @@ tags:
  - "Human-computer interaction"
 ---
 
+{% bibliography --file fmylonas --max 3 %}
 
-## Publications
-
-{% bibliography --file fmylonas %}
+<a href="http://localhost:4000/scholardi/scholars0/fmylonas/" class="btn btn--primary">Link Text</a>
 
 
 ### education:

@@ -13,11 +13,9 @@ tags:
  - "Security and Privacy in Internet applications"
 ---
 
+{% bibliography --file emagos --max 3 %}
 
-## Publications
-
-{% bibliography --file emagos %}
-
+<a href="http://localhost:4000/scholardi/scholars0/emagos/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Computer Science, University of Piraeus"

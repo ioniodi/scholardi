@@ -16,11 +16,9 @@ tags:
  - "Computer-Supported Collaborative Work"
 ---
 
+{% bibliography --file choko --max 3 %}
 
-## Publications
-
-{% bibliography --file choko %}
-
+<a href="http://localhost:4000/scholardi/scholars0/choko/" class="btn btn--primary">Link Text</a>
 
 ## Education
 

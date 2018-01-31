@@ -13,12 +13,9 @@ tags:
  - "Computer Networks"
 ---
 
+{% bibliography --file vchris --max 3 %}
 
-
-## Publications
-
-{% bibliography --file vchris %}
-
+<a href="http://localhost:4000/scholardi/scholars0/vchris/" class="btn btn--primary">Link Text</a>
 
 ### education:
   - "Diploma in Mathematics, Aristotle University of Thessaloniki"
